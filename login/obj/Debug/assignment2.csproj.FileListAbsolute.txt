@@ -1,0 +1,13 @@
+c:\users\yuhui liu\source\repos\login\login\bin\Debug\login.exe.config
+c:\users\yuhui liu\source\repos\login\login\bin\Debug\login.exe
+c:\users\yuhui liu\source\repos\login\login\bin\Debug\login.pdb
+c:\users\yuhui liu\source\repos\login\login\obj\Debug\assignment2.csprojResolveAssemblyReference.cache
+c:\users\yuhui liu\source\repos\login\login\obj\Debug\login.login.resources
+c:\users\yuhui liu\source\repos\login\login\obj\Debug\login.NewUser.resources
+c:\users\yuhui liu\source\repos\login\login\obj\Debug\login.Properties.Resources.resources
+c:\users\yuhui liu\source\repos\login\login\obj\Debug\assignment2.csproj.GenerateResource.cache
+c:\users\yuhui liu\source\repos\login\login\obj\Debug\assignment2.csproj.CoreCompileInputs.cache
+c:\users\yuhui liu\source\repos\login\login\obj\Debug\login.exe
+c:\users\yuhui liu\source\repos\login\login\obj\Debug\login.pdb
+c:\users\yuhui liu\source\repos\login\login\obj\Debug\login.Editor.resources
+c:\users\yuhui liu\source\repos\login\login\obj\Debug\login.AboutBox1.resources
