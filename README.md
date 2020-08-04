@@ -5,3 +5,6 @@ create/save/edit text documents. The text documents can be either viewed or modi
 based on the user type. This will be a prototype of a text editor which will provide an overview of
 the basic underlying programming techniques required to create windows applications and text
 manipulation
+
+# How to run?
+please use Visual code and run the login programming file.
